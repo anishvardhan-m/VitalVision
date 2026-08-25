@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #080808;
+    color: #ffffff;
+
+    font-family: Arial, sans-serif;
+}
+
+.app {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 42px;
+}
+
+#backend-status {
+    color: #999;
+    font-size: 18px;
+}
