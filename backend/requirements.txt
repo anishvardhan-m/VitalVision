@@ -2,6 +2,6 @@ Flask
 Flask-SocketIO
 eventlet
 opencv-python
-mediapipe
+mediapipe==0.10.35
 numpy
 scipy
